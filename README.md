@@ -15,7 +15,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/simple-python-projects.git
+git clone https://github.com/KingBawse/Python-Projects
 Navigate to the project directory:
 bash
 Copy code
